@@ -1,0 +1,6 @@
+module Pods_TestWithFlutter {
+  umbrella header "Pods-TestWithFlutter-umbrella.h"
+
+  export *
+  module * { export * }
+}
